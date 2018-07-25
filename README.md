@@ -24,5 +24,4 @@ then you can edit stuff in the inspector under Player Controller
 	CoffOfDrag: drag force multiplier (note PlayerMovmentForce and CoffOfDrag ratio very strongly determines how game feels)
 	Drag_in_air: weither drag is applied while the player is in the air (note turning this off means the players could get some serious speed if they just keep jumping)
 	Ghost_time: how long to wait after the player falls off a ledge before they can't jump (used to fight latency both in screen and in input)
-	Jump Angle Limit: any slope higher than this the player can't jump on
 	Walk Angle Limit: any slope hight than this the player can't walk up
